@@ -1,0 +1,9 @@
+# Requirements.txt
+#
+# The different package that should be used in order to
+# execute this component.
+#
+# __author__ = gjp
+
+Flask-Mail==0.9.1
+Flask==0.10.1
